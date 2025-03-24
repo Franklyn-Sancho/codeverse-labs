@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { CodeBracketIcon, DevicePhoneMobileIcon } from '@heroicons/react/24/outline';
 
 const Projects = () => {

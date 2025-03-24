@@ -1,6 +1,5 @@
-// components/Navbar.jsx
-import React, { useState } from 'react';
 import { CodeBracketIcon, Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
+import { useState } from 'react';
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

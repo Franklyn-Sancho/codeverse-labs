@@ -1,4 +1,3 @@
-import React from 'react';
 import { GithubIcon, LinkedinIcon, TwitterIcon } from 'lucide-react';
 
 const CreatorProfile = () => {
